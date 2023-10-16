@@ -1,0 +1,5 @@
+<p>app-checkbox-list works!</p>
+<div *ngFor="let option of options">
+    <input type="checkbox" [value]="option" [(ngModel)]="selectedOptions" (change)="optionChanged()">
+    {{ option }}
+  </div>

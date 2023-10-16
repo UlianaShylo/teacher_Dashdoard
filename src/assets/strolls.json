@@ -1,0 +1,1138 @@
+[ 
+    {
+        "referential": "digital_skills",
+        "domain": "INFORMATION",
+        "competency": "FIND",
+        "level": "experienced",
+        "coni_pid": "7",
+        "chapters": {
+            "43": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "44": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "45": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "46": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "47": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "48": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "49": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            }
+        },
+        "coni_ignorance": 100.00000000000003
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "COLLABORATE",
+        "level": "elementary",
+        "coni_pid": "21",
+        "chapters": {
+            "97": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": 0,
+                "stroll_pid": "52",
+                "question_success": [],
+                "question_fail": [
+                    "478",
+                    "473"
+                ]
+            },
+            "286": {
+                "ignorance_rate": 66.66666666666666,
+                "weight": 16.666666666666668,
+                "success": 0,
+                "stroll_pid": "40",
+                "question_success": [
+                    "565"
+                ],
+                "question_fail": [
+                    "448"
+                ]
+            },
+            "99": {
+                "ignorance_rate": 22.222222222222218,
+                "weight": 16.666666666666668,
+                "success": 100,
+                "stroll_pid": "53",
+                "question_success": [
+                    "620",
+                    "619"
+                ],
+                "question_fail": [
+                    "621"
+                ]
+            },
+            "100": {
+                "ignorance_rate": 83.33333333333333,
+                "weight": 16.666666666666668,
+                "success": 0,
+                "stroll_pid": "49",
+                "question_success": [
+                    "550"
+                ],
+                "question_fail": [
+                    "546",
+                    "549"
+                ]
+            },
+            "119": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": 0,
+                "stroll_pid": "48",
+                "question_success": [],
+                "question_fail": [
+                    "527",
+                    "530",
+                    "522",
+                    "525"
+                ]
+            },
+            "120": {
+                "ignorance_rate": 66.66666666666666,
+                "weight": 16.666666666666668,
+                "success": 0,
+                "stroll_pid": "51",
+                "question_success": [
+                    "1016"
+                ],
+                "question_fail": [
+                    "1017"
+                ]
+            }
+        },
+        "coni_ignorance": 73.14814814814815
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "COLLABORATE",
+        "level": "independent",
+        "coni_pid": "22",
+        "chapters": {
+            "145": {
+                "ignorance_rate": 66.66666666666666,
+                "weight": 16.666666666666668,
+                "success": 0,
+                "stroll_pid": "44",
+                "question_success": [
+                    "483"
+                ],
+                "question_fail": [
+                    "480",
+                    "481"
+                ]
+            },
+            "146": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": 0,
+                "stroll_pid": "34",
+                "question_success": [],
+                "question_fail": [
+                    "570"
+                ]
+            },
+            "147": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "148": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "149": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "150": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": 0,
+                "stroll_pid": "39",
+                "question_success": [],
+                "question_fail": [
+                    "562"
+                ]
+            }
+        },
+        "coni_ignorance": 94.44444444444446
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "LAW",
+        "level": "experienced",
+        "coni_pid": "18",
+        "chapters": {
+            "209": {
+                "ignorance_rate": 50.5,
+                "weight": 20.0,
+                "success": 0,
+                "stroll_pid": "15",
+                "question_success": [],
+                "question_fail": [
+                    "942"
+                ]
+            },
+            "208": {
+                "ignorance_rate": 100.0,
+                "weight": 20.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "210": {
+                "ignorance_rate": 100.0,
+                "weight": 20.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "211": {
+                "ignorance_rate": 100.0,
+                "weight": 20.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "212": {
+                "ignorance_rate": 100.0,
+                "weight": 20.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            }
+        },
+        "coni_ignorance": 90.1
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "LAW",
+        "level": "elementary",
+        "coni_pid": "16",
+        "chapters": {
+            "195": {
+                "ignorance_rate": 11.111111111111112,
+                "weight": 20.0,
+                "success": 100,
+                "stroll_pid": "21",
+                "question_success": [
+                    "930",
+                    "933"
+                ],
+                "question_fail": []
+            },
+            "194": {
+                "ignorance_rate": 33.333333333333336,
+                "weight": 20.0,
+                "success": 100,
+                "stroll_pid": "13",
+                "question_success": [
+                    "948"
+                ],
+                "question_fail": []
+            },
+            "196": {
+                "ignorance_rate": 100.0,
+                "weight": 20.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "197": {
+                "ignorance_rate": 33.333333333333336,
+                "weight": 20.0,
+                "success": 100,
+                "stroll_pid": "19",
+                "question_success": [
+                    "993"
+                ],
+                "question_fail": []
+            },
+            "198": {
+                "ignorance_rate": 100,
+                "weight": 20.0,
+                "success": 0,
+                "stroll_pid": "12",
+                "question_success": [],
+                "question_fail": [
+                    "991"
+                ]
+            }
+        },
+        "coni_ignorance": 55.55555555555556
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "CREATE",
+        "level": "experienced",
+        "coni_pid": "12",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "AUDIOVISUAL",
+        "level": "independent",
+        "coni_pid": "24",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "AUDIOVISUAL",
+        "level": "elementary",
+        "coni_pid": "23",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "AUDIOVISUAL",
+        "level": "experienced",
+        "coni_pid": "25",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "AUTOMATE",
+        "level": "experienced",
+        "coni_pid": "19",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "COLLABORATE",
+        "level": "experienced",
+        "coni_pid": "30",
+        "chapters": {
+            "153": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "154": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "155": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "156": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "157": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "158": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": 0,
+                "stroll_pid": "43",
+                "question_success": [],
+                "question_fail": [
+                    "837"
+                ]
+            }
+        },
+        "coni_ignorance": 100.00000000000001
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "SHARE",
+        "level": "elementary",
+        "coni_pid": "34",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "SHARE",
+        "level": "independent",
+        "coni_pid": "35",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "IDENTITY",
+        "level": "independent",
+        "coni_pid": "38",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "IDENTITY",
+        "level": "elementary",
+        "coni_pid": "37",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "INTERACT",
+        "level": "experienced",
+        "coni_pid": "33",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "INTERACT",
+        "level": "independent",
+        "coni_pid": "32",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "INTERACT",
+        "level": "elementary",
+        "coni_pid": "31",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "SHARE",
+        "level": "experienced",
+        "coni_pid": "36",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "LAW",
+        "level": "independent",
+        "coni_pid": "40",
+        "chapters": {
+            "202": {
+                "ignorance_rate": 100.0,
+                "weight": 20.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "201": {
+                "ignorance_rate": 50.5,
+                "weight": 20.0,
+                "success": 0,
+                "stroll_pid": "20",
+                "question_success": [],
+                "question_fail": [
+                    "955"
+                ]
+            },
+            "203": {
+                "ignorance_rate": 50.5,
+                "weight": 20.0,
+                "success": 0,
+                "stroll_pid": "18",
+                "question_success": [],
+                "question_fail": [
+                    "976"
+                ]
+            },
+            "204": {
+                "ignorance_rate": 50.5,
+                "weight": 20.0,
+                "success": 0,
+                "stroll_pid": "16",
+                "question_success": [],
+                "question_fail": [
+                    "997"
+                ]
+            },
+            "205": {
+                "ignorance_rate": 33.333333333333336,
+                "weight": 20.0,
+                "success": 100,
+                "stroll_pid": "14",
+                "question_success": [
+                    "1006"
+                ],
+                "question_fail": []
+            }
+        },
+        "coni_ignorance": 56.96666666666667
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "SECURITY",
+        "competency": "HARDWARE",
+        "level": "elementary",
+        "coni_pid": "43",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "SECURITY",
+        "competency": "DATA",
+        "level": "elementary",
+        "coni_pid": "46",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "SECURITY",
+        "competency": "DATA",
+        "level": "independent",
+        "coni_pid": "47",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "COMMUNICATION",
+        "competency": "IDENTITY",
+        "level": "experienced",
+        "coni_pid": "39",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "SECURITY",
+        "competency": "HARDWARE",
+        "level": "experienced",
+        "coni_pid": "45",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "SECURITY",
+        "competency": "HARDWARE",
+        "level": "independent",
+        "coni_pid": "44",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "AUTOMATE",
+        "level": "independent",
+        "coni_pid": "42",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "AUTOMATE",
+        "level": "elementary",
+        "coni_pid": "41",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "SECURITY",
+        "competency": "HEALTH",
+        "level": "elementary",
+        "coni_pid": "49",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "SECURITY",
+        "competency": "HEALTH",
+        "level": "experienced",
+        "coni_pid": "51",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "SECURITY",
+        "competency": "HEALTH",
+        "level": "independent",
+        "coni_pid": "50",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "SECURITY",
+        "competency": "DATA",
+        "level": "experienced",
+        "coni_pid": "48",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "INFORMATION",
+        "competency": "EVALUATE",
+        "level": "independent",
+        "coni_pid": "5",
+        "chapters": {
+            "31": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "32": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "33": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "34": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            }
+        },
+        "coni_ignorance": 100.0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "INFORMATION",
+        "competency": "FIND",
+        "level": "independent",
+        "coni_pid": "4",
+        "chapters": {
+            "22": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "23": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "24": {
+                "ignorance_rate": 50.5,
+                "weight": 14.285714285714286,
+                "success": 0,
+                "stroll_pid": "23",
+                "question_success": [],
+                "question_fail": [
+                    "13"
+                ]
+            },
+            "25": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "26": {
+                "ignorance_rate": 50.5,
+                "weight": 14.285714285714286,
+                "success": 0,
+                "stroll_pid": "26",
+                "question_success": [],
+                "question_fail": [
+                    "65"
+                ]
+            },
+            "27": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "28": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            }
+        },
+        "coni_ignorance": 85.85714285714288
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "INFORMATION",
+        "competency": "STORE",
+        "level": "independent",
+        "coni_pid": "6",
+        "chapters": {
+            "37": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "38": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "39": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "40": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "41": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "101": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            }
+        },
+        "coni_ignorance": 100.00000000000001
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "INFORMATION",
+        "competency": "FIND",
+        "level": "elementary",
+        "coni_pid": "1",
+        "chapters": {
+            "1": {
+                "ignorance_rate": 50.5,
+                "weight": 14.285714285714286,
+                "success": 0,
+                "stroll_pid": "30",
+                "question_success": [],
+                "question_fail": [
+                    "391"
+                ]
+            },
+            "2": {
+                "ignorance_rate": 50.5,
+                "weight": 14.285714285714286,
+                "success": 0,
+                "stroll_pid": "31",
+                "question_success": [],
+                "question_fail": [
+                    "303"
+                ]
+            },
+            "3": {
+                "ignorance_rate": 50.5,
+                "weight": 14.285714285714286,
+                "success": 0,
+                "stroll_pid": "27",
+                "question_success": [],
+                "question_fail": [
+                    "114"
+                ]
+            },
+            "4": {
+                "ignorance_rate": 25.75,
+                "weight": 14.285714285714286,
+                "success": 0,
+                "stroll_pid": "29",
+                "question_success": [],
+                "question_fail": [
+                    "107",
+                    "251"
+                ]
+            },
+            "5": {
+                "ignorance_rate": 17.166666666666668,
+                "weight": 14.285714285714286,
+                "success": 0,
+                "stroll_pid": "28",
+                "question_success": [
+                    "298"
+                ],
+                "question_fail": [
+                    "269"
+                ]
+            },
+            "6": {
+                "ignorance_rate": 100.0,
+                "weight": 14.285714285714286,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "7": {
+                "ignorance_rate": 33.333333333333336,
+                "weight": 14.285714285714286,
+                "success": 100,
+                "stroll_pid": "25",
+                "question_success": [
+                    "370"
+                ],
+                "question_fail": []
+            }
+        },
+        "coni_ignorance": 46.821428571428584
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "INFORMATION",
+        "competency": "STORE",
+        "level": "elementary",
+        "coni_pid": "3",
+        "chapters": {
+            "15": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "16": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "17": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "18": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "19": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "20": {
+                "ignorance_rate": 100.0,
+                "weight": 16.666666666666668,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            }
+        },
+        "coni_ignorance": 100.00000000000001
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "INFORMATION",
+        "competency": "STORE",
+        "level": "experienced",
+        "coni_pid": "9",
+        "chapters": {
+            "58": {
+                "ignorance_rate": 100.0,
+                "weight": 20.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "59": {
+                "ignorance_rate": 100.0,
+                "weight": 20.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "60": {
+                "ignorance_rate": 100.0,
+                "weight": 20.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "61": {
+                "ignorance_rate": 100.0,
+                "weight": 20.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "62": {
+                "ignorance_rate": 100.0,
+                "weight": 20.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            }
+        },
+        "coni_ignorance": 100.0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "INFORMATION",
+        "competency": "EVALUATE",
+        "level": "elementary",
+        "coni_pid": "2",
+        "chapters": {
+            "10": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "11": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "12": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "13": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            }
+        },
+        "coni_ignorance": 100.0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "CREATE",
+        "level": "elementary",
+        "coni_pid": "10",
+        "chapters": {},
+        "coni_ignorance": 0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "INFORMATION",
+        "competency": "EVALUATE",
+        "level": "experienced",
+        "coni_pid": "8",
+        "chapters": {
+            "52": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "53": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "54": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            },
+            "55": {
+                "ignorance_rate": 100.0,
+                "weight": 25.0,
+                "success": -2,
+                "stroll_pid": "0",
+                "question_success": [],
+                "question_fail": []
+            }
+        },
+        "coni_ignorance": 100.0
+    },
+    {
+        "referential": "digital_skills",
+        "domain": "CONTENT",
+        "competency": "CREATE",
+        "level": "independent",
+        "coni_pid": "11",
+        "chapters": {},
+        "coni_ignorance": 0
+    }
+
+]
+
+
+

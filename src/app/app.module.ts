@@ -3,16 +3,29 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+// import { PlotlyService } from './plotly-component/plotly-component.component';
+// import { D3Service } from './plotly.service';
+import { HttpClientModule } from '@angular/common/http';
+import { CheckboxListComponent } from './app-checkbox-list/app-checkbox-list.component';
+import { FormsModule } from '@angular/forms';
+import { PlotlyService } from './plotly.service';
+import { PlotlyComponent } from './plotly-component/plotly-component.component';
+
+
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    PlotlyComponent,
+    CheckboxListComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
+    FormsModule,
   ],
-  providers: [],
+  providers: [PlotlyService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
