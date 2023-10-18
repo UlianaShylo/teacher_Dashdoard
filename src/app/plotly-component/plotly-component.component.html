@@ -1,3 +1,28 @@
 <div id="plot"></div>
 <div id="wind-rose-plot"></div>
-<div id="app-plotly-component"></div>
+<div id="plot1"></div>
+<div id="wind-rose-plot1"></div>
+
+<table>
+    <thead>
+      <tr>
+        <th>Domain</th>
+        <th>Chapter ID</th>
+        <th>Success</th>
+        <th>Ignorance Rate</th>
+      </tr>
+    </thead>
+    <tbody>
+      <ng-container *ngFor="let selectedItem of selectedItems">
+        <ng-container *ngFor="let data of domainDataMap.get(selectedItem)">
+          <tr>
+            <td>{{ selectedItem }}</td>
+            <td>{{ data.chapter_id }}</td>
+            <td>{{ data.success }}</td>
+            <td>{{ data.ignorance_rate }}</td>
+          </tr>
+        </ng-container>
+      </ng-container>
+    </tbody>
+  </table>
+  

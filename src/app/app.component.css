@@ -1,0 +1,11 @@
+.container {
+  height: 100vh; /* Adjust the height to your preference */
+}
+
+mat-sidenav {
+  width: 300px; /* Adjust the width to your preference */
+}
+
+mat-sidenav-content {
+  padding: 0px; /* Adjust padding as needed */
+}

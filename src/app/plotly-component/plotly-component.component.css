@@ -1,0 +1,10 @@
+#plot, #wind-rose-plot {
+    width: 50%; /* Adjust the width as needed, here it's set to 50% for equal width */
+    height: 400px; /* Adjust the height as needed */
+    display: inline-block; /* or use float: left; */
+  }
+#plot1, #wind-rose-plot1 {
+    width: 50%; /* Adjust the width as needed, here it's set to 50% for equal width */
+    height: 400px; /* Adjust the height as needed */
+    display: inline-block; /* or use float: left; */
+  }

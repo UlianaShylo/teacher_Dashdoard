@@ -1,0 +1,26 @@
+.sidebar {
+    position: fixed; /* Fixed position */
+    top: 0;
+    left: 0;
+    width: 250px; /* Set the desired width */
+    height: 100%; /* Full height of the page */
+    background-color: #333; /* Sidebar background color */
+    color: #fff; /* Text color */
+    padding: 20px; /* Adjust padding as needed */
+  }
+  
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
+  

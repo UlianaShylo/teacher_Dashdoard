@@ -1,13 +1,16 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { AppComponent } from './app.component';
+import { MultiSelectComponent } from './multi-select/multi-select.component';
 
 const routes: Routes = [
   {
-    path: 'http://localhost:4200/', // This is the default route, matching http://localhost:4200/
-    component: AppComponent // Replace 'YourDefaultComponent' with the actual component you want to display at the root URL.
+    path: 'http://localhost:4200/', 
+    component: AppComponent
   },
-  // Add more route configurations for other pages or components as needed.
+  // { path: 'multiselect', component: MultiSelectComponent },
+  // { path: '', redirectTo: 'multiselect', pathMatch: 'full' },
+
 ];
 
 @NgModule({
@@ -15,3 +18,4 @@ const routes: Routes = [
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
+

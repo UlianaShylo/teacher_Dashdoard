@@ -1,9 +1,9 @@
-<div>
-  <h1>Welcome to My Angular App</h1>
-  <router-outlet></router-outlet>
-  <app-plotly-component></app-plotly-component>
-  <app-checkbox-list></app-checkbox-list>
-  
+<div class="app-container">
+  <mat-sidenav-container>
+    <app-plotly-component></app-plotly-component>
+    <mat-sidenav mode="side" opened="true">
+      <app-sidebar></app-sidebar>
+    </mat-sidenav>
 
-  
+  </mat-sidenav-container>
 </div>
